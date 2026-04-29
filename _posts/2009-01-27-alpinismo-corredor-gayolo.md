@@ -14,13 +14,14 @@ tags:
   - "cumpleanos"
   - "rioseta"
   - "valle-del-aragon"
-coverImage: "https://github.com/elpequenosaltatapias/blog-chirpy/blob/main/assets/img/posts/2009-01-27-alpinismo-corredor-gayolo/gayolo.jpg"
+coverImage: "https://github.com/elpequenosaltatapias/blog-chirpy/blob/main/assets/img/2009-01-27-alpinismo-corredor-gayolo/gayolo.jpg"
 ---
 
 ## 52 CUMPLEAÑOS CON UNA AVENTURA INOLVIDABLE EN CANDANCHU
 
 > Celebrando el cumple de mi padre con un poco de alpinismo en Candanchú. Nos vamos a un corredor perfecto para iniciarse en el alpinismo invernal.
-![Alpinismo invernal corredor Gayolo Candanchu]({{'/assets/img/posts/2009-01-27-alpinismo-corredor-gayolo/P1152126-768x1024.jpg' | relative_url}})
+![Alpinismo invernal corredor Gayolo Candanchu](./assets/img/2009-01-27-alpinismo-corredor-gayolo/gayolo.jpg)
+
 
 # Corredor Gayolo. Circo de Rioseta. Candanchú
 
