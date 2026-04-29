@@ -14,7 +14,7 @@ tags:
   - "cumpleanos"
   - "rioseta"
   - "valle-del-aragon"
-coverImage: "https://github.com/elpequenosaltatapias/blog-chirpy/blob/main/assets/img/posts/2009-01-27-alpinismo-corredor-gayolo/P1152126-768x1024.jpg"
+coverImage: "https://github.com/elpequenosaltatapias/blog-chirpy/blob/main/assets/img/posts/2009-01-27-alpinismo-corredor-gayolo/gayolo.jpg"
 ---
 
 ## 52 CUMPLEAÑOS CON UNA AVENTURA INOLVIDABLE EN CANDANCHU
