@@ -20,7 +20,7 @@ coverImage: "P1152121.jpg"
 ## 52 CUMPLEAÑOS CON UNA AVENTURA INOLVIDABLE EN CANDANCHU
 
 > Celebrando el cumple de mi padre con un poco de alpinismo en Candanchú. Nos vamos a un corredor perfecto para iniciarse en el alpinismo invernal.
-![Alpinismo invernal corredor Gayolo Candanchu](https://elpequenosaltatapias.github.io/bloging/assets/img/P1152126-768x1024.jpg)
+![Alpinismo invernal corredor Gayolo Candanchu](https://github.com/elpequenosaltatapias/blog-chirpy/blob/main/assets/img/posts/2009-01-27-alpinismo-corredor-gayolo/P1152126-768x1024.jpg)
 
 # Corredor Gayolo. Circo de Rioseta. Candanchú
 
