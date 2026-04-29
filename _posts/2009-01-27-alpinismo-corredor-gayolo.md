@@ -21,6 +21,7 @@ coverImage: /assets/img/2009-01-27-alpinismo-corredor-gayolo/gayolo.jpg
 
 > Celebrando el cumple de mi padre con un poco de alpinismo en Candanchú. Nos vamos a un corredor perfecto para iniciarse en el alpinismo invernal.
 ![Gayolo]({{ '/assets/img/2009-01-27-alpinismo-corredor-gayolo/gayolo.jpg' | relative_url }})
+![Gayolo]('https://imgs.search.brave.com/AlwfD8LqRVB2wYUhZIYjvlCfzpO2XMqck-IWnLXimT0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA2LzQwLzM3LzM2/LzM2MF9GXzY0MDM3/MzYwM19XeG1ydEU1/TzVhYlZPdThaeFJs/VUNxOWpnQkw2cWc3/Yy5qcGc')
 
 
 # Corredor Gayolo. Circo de Rioseta. Candanchú
